@@ -1,4 +1,4 @@
-# SummaryPoints <img src="asserts/iconPicture.png" alt="Tool Icon" height="16" style="vertical-align: text-bottom;">
+# SummaryPoints <img src="asserts/iconPicture.png" alt="Tool Icon" height="32" style="vertical-align: text-bottom;">
 
 A desktop tool for merging PowerPoint files and exporting them as a single PDF.  
 > Great for students and organized people
