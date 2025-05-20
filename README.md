@@ -1,6 +1,4 @@
-# SummaryPoints
-
-![Tool Icon](asserts/iconPicture.png)
+# SummaryPoints  ![Tool Icon](asserts/iconPicture.png)
 
 A desktop tool for merging PowerPoint files and exporting them as a single PDF.  
 > Great for students and organized people
