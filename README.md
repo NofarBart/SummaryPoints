@@ -59,7 +59,7 @@ pyinstaller --onefile --noconsole --icon="icon.ico" ^
   --add-binary "path\to\libSkiaSharp.dll;spire\presentation\lib" ^
   concatPowerPoints.py
 ```
-The `.exe` will be inside the `\dist` folder 
+The `.exe` will be inside the `dist/` folder 
 Make sure you're in the right virtual environment and have all dependencies installed.
 
 ---
